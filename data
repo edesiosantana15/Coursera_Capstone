@@ -1,0 +1,6 @@
+DATA
+
+I will be using different types of data:
+1) first of all I will use a json file for the map of New York City.
+2)then i will download the data for the 5 boroughs and 306 neighborhoods of the city that are freely available online
+3) I will use Foursquare to explore the neighbourhoods and determine the most popular venues per neighbourhoods
